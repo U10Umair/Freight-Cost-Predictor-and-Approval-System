@@ -3,7 +3,9 @@
 **Vendor Invoice Intelligence System**  
 An End-to-End Machine Learning Solution for Freight Cost Prediction and Automated Invoice Risk Flagging
 
-![Streamlit App](https://freight-cost-predictor-and-approval-system-ftjrpdwuhzjptvpwsvy.streamlit.app/)  
+### 🌐 Live Demo
+You can access the live application here: 
+[Streamlit App](https://freight-cost-predictor-and-approval-system-ftjrpdwuhzjptvpwsvy.streamlit.app/)
 
 ## 🎯 Project Overview
 
