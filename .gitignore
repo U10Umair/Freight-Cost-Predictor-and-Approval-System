@@ -1,0 +1,9 @@
+# Virtual environment folder
+forProjects/
+
+# Large database and data files
+Data/inventory.db
+*.db
+Data/*.db
+*.sqlite
+*.sqlite3
